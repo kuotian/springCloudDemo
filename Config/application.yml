@@ -6,9 +6,9 @@ spring:
 spring:
   profiles:dev 
   application:
-    name:microservicecloud-config-hdu-dev
+    name: microservicecloud-config-hdu-dev
 ---
 spring:
   profiles:test
   application:
-    name:microservicecloud-config-hdu-test
+    name: microservicecloud-config-hdu-test
